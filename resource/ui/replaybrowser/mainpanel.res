@@ -1,9 +1,9 @@
-"Resource/UI/CharInfoPanel.res"
+"Resource/UI/replaybrowser/mainpanel.res"
 {
-	"character_info"
+	"ReplayBrowser"
 	{
 		"ControlName"	"EditablePanel"
-		"fieldName"		"character_info"
+		"fieldName"		"ReplayBrowser"
 		"xpos"			"0"
 		"ypos"			"0"
 		"wide"			"f0"
@@ -19,7 +19,7 @@
 		"infocus_bgcolor_override"		"46 43 42 0"
 		"outoffocus_bgcolor_override"	"46 43 42 0"
 		
-		"title"			"#CharInfoAndSetup"
+		"title"			"#Replay_Replay"
 		"title_font"	"HudFontMediumBold"
 		"titletextinsetX"	"40"
 		"titletextinsetY"	"10"
@@ -96,7 +96,7 @@
 			"tall"			"10"
 			"visible"		"1"
 			"enabled"		"1"
-			"image"			"loadout_solid_line"
+			"image"			"replay/replaybrowser_solidline"
 			"scaleImage"	"1"
 		}				
 		
@@ -108,8 +108,8 @@
 			"unselectedcolor"	"130 120 104 255"	
 			"defaultBgColor_override"	"46 43 42 255"
 			"paintbackground"	"0"
-			"activeborder_override"	"OutlinedGreyBox"
-			"normalborder_override" "OutlinedDullGreyBox"
+			"activeborder_override"	"ReplayOutlinedGreyBox"
+			"normalborder_override" "ReplayOutlinedDullGreyBox"
 		}
 	}
 	
@@ -136,35 +136,5 @@
 		"Command"		"back"
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
-	}		
-	
-	"NotificationsPresentPanel"
-	{
-		"ControlName"	"CNotificationsPresentPanel"
-		"fieldName"		"NotificationsPresentPanel"
-		"xpos"			"r200"
-		"ypos"			"10"
-		"zpos"			"10000"
-		"wide"			"190"
-		"tall"			"50"
-		"visible"		"0"
-		"enabled"		"1"
-	}
-	"ReloadSchemeButton"
-	{
-		"ControlName"								"CExButton"
-		"fieldName"									"ReloadSchemeButton"
-		"xpos"										"rs1-5"
-		"ypos"										"35"
-		"zpos"										"250"
-		"wide"										"15"
-		"tall"										"15"
-		"visible"									"0"
-		"enabled"									"1"
-		"proportionaltoparent"						"1"
-		"labelText"									"RS"
-		"font"										"Default"
-		"textAlignment"								"center"
-		"Command"									"reloadscheme"
-	}
+	}	
 }

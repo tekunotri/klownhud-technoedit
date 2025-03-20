@@ -27,7 +27,7 @@
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
 		"font"										"HudFontSmallBold"
-		"fgcolor"									"CustomWhite"
+		"fgcolor"									"TanLight"
 	}
 	"ItemEffectMeterCountShadow"
 	{
@@ -43,7 +43,7 @@
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
 		"font"										"HudFontSmallBold"
-		"fgcolor"									"Black"
+		"fgcolor_override"									"Black"
 
 		"pin_to_sibling"							"ItemEffectMeterCount"
 	}

@@ -2,13 +2,13 @@
 //	#base "../../advanced/resource/ui/hudmediccharge - default medic ui.res"
 	
 //	Uncomment the line below to enable small ubercharge value under the crosshair:
-	#base "../../advanced/resource/ui/hudmediccharge - small uber value.res"
+//	#base "../../advanced/resource/ui/hudmediccharge - small uber value.res"
 	
 //	Uncomment the line below to enable large ubercharge value:
 //	#base "../../advanced/resource/ui/hudmediccharge - large uber value.res"
 	
 //	Uncomment the line below to enable both:
-//	#base "../../advanced/resource/ui/hudmediccharge - combined uber layout.res"
+	#base "../../advanced/resource/ui/hudmediccharge - combined uber layout.res"
 	
 	#base "../../basefiles/resource/ui/hudmediccharge.res"
 
