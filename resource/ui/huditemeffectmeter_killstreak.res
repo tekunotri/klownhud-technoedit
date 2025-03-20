@@ -9,7 +9,7 @@
 		"ypos"										"0"
 		"wide"										"f0"
 		"tall"										"480"
-		"MeterFG"									"White"
+		"MeterFG"									"CustomWhite"
 		"MeterBG"									"Gray"
 	}
 
@@ -27,7 +27,7 @@
 		"labelText"									"%progresscount%"
 		"textAlignment"								"west"
 		"font"										"HudFontSmallBold"
-		"fgcolor"									"White"
+		"fgcolor"									"CustomWhite"
 	}
 	"ItemEffectMeterCountShadow"
 	{

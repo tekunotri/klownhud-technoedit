@@ -1,7 +1,6 @@
 //	Crosshairs section moved to separate file (idhud-master\scripts\hudcrosshairs.res)
 
 #base "../basefiles/hudlayout.res"
-#base "../scripts/hudcrosshairs.res"
 
 "Resource/HudLayout.res"
 {

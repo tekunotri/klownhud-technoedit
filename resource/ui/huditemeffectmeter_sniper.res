@@ -12,7 +12,7 @@
 		"ypos_minmode"	"r43"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 	

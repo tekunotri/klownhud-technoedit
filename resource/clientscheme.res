@@ -1,4 +1,4 @@
-#base "../basefiles/ClientScheme.res"
+#base "base/clientscheme.res"
 
 Scheme
 {
@@ -742,6 +742,7 @@ Scheme
 			}
 		}
 	}
+}
 
 	CustomFontFiles
 	{
@@ -764,6 +765,7 @@ Scheme
 		{
 			"font" "resource/TF2Secondary.ttf"
 			"name" "TF2 Secondary"
+			"russian"
 			{
 				"range" "0x0000 0xFFFF"
 			}	
@@ -789,6 +791,7 @@ Scheme
 		{
 			"font" "resource/TF2Build.ttf"
 			"name" "TF2 Build"
+			"russian"
 			{
 				"range" "0x0000 0xFFFF"
 			}	

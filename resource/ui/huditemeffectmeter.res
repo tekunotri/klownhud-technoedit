@@ -13,7 +13,7 @@
 		"ypos"			"r74"	[$X360]
 		"wide"			"74"
 		"tall"			"50"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 	

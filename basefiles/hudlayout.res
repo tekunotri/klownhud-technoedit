@@ -67,7 +67,7 @@
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
 		"tall"			"50"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 	
@@ -101,7 +101,7 @@
 		"wide"			"60"
 		"wide_minmode"	"50"
 		"tall"			"8"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}	
 
@@ -120,7 +120,7 @@
 		"wide"			"60"
 		"wide_minmode"	"50"
 		"tall"			"8"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 
@@ -139,7 +139,7 @@
 		"wide"			"60"
 		"wide_minmode"	"50"
 		"tall"			"8"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 

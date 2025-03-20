@@ -13,7 +13,7 @@
 		"x_offset_minmode"		"0"
 		"wide"			"100"
 		"tall"			"50"
-		"MeterFG"		"White"
+		"MeterFG"		"CustomWhite"
 		"MeterBG"		"Gray"
 	}
 	
