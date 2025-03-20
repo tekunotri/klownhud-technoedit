@@ -17,13 +17,13 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"r95"	[$WIN32]
+		"xpos"	"r105"	[$WIN32]
 		"xpos_minmode"	"r115"	[$WIN32]
 		"ypos"	"r55"	[$WIN32]
 		"ypos_minmode"	"r70"	[$WIN32]
 		"xpos"	"r131"	[$X360]
 		"ypos"	"r77"	[$X360]
-		"wide"	"94"
+		"wide"	"102"
 		"tall"	"45"
 	}
 	
@@ -87,7 +87,7 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r70"	[$WIN32]
+		"xpos"			"r77"	[$WIN32]
 		"xpos_minmode"	"r75"	[$WIN32]
 		"ypos"			"r19"	[$WIN32]
 		"ypos_minmode"	"r75"	[$WIN32]
